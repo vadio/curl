@@ -50,3 +50,7 @@ mkinstalldirs
 tags
 test-driver
 scripts/_curl
+
+/Android.mk
+/configure.ac.bak
+/obj/
